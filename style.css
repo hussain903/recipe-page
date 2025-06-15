@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "YoungSerif-Regular";
+    src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: "YoungSerif-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(30, 10%, 34%);
+        }
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 100%;
+    max-width: 800px;
+    margin-block: 80px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-inline: auto;
+    line-height: 2;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+    }
+.preparation-time {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    padding-top: 7px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+   }
+h3 {
+    color: hsl(332, 51%, 32%);
+}
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    padding-left: 55px;
+    }
+td {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 40px;
+}
+tr:first-child td {
+    border-top: none;
+}
+tr:last-child td {
+    border-bottom: none;
+}
+td:nth-child(2) {
+    color: hsl(332, 51%, 32%);
+}
+li::marker {
+    color: hsl(332, 51%, 32%);
+}
+.attribution {
+    text-align: center;
+}
+
+@media (min-width: 375px) {
+    body{
+
+        background-color: rgb(85, 50, 50);
+    }
+}
