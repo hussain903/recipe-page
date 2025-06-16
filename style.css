@@ -60,9 +60,16 @@ li::marker {
     text-align: center;
 }
 
-@media (min-width: 375px) {
+.mobile {
+    display: block;
+}
+
+@media (max-width: 375px) {
     body{
 
         background-color: rgb(85, 50, 50);
+    }
+    .mobile {
+        display: hidden;
     }
 }

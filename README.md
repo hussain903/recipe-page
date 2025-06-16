@@ -52,9 +52,9 @@ I'd like to focus on building my skills in CSS in order to improve my creativity
 
 ## Author
 
-- Website - [Add your name here](https://www.facebook.com/osea.timer)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hussain903)
-- X (Twitter) - [@yourusername](https://www.x.com/hoseahmaaji)
+- Website - [Hosea Kings Hussain](https://www.facebook.com/osea.timer)
+- Frontend Mentor - [@hussain903](https://www.frontendmentor.io/profile/hussain903)
+- X (Twitter) - [@hoseahmaaji](https://www.x.com/hoseahmaaji)
 
 
 ## Acknowledgments
